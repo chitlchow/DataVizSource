@@ -1,0 +1,33 @@
+code,label,description,value
+E92000001,England,Aged 0 to 4 years,1120099
+E92000001,England,Aged 5 to 7 years,429228
+E92000001,England,Aged 8 to 9 years,266698
+E92000001,England,Aged 10 to 14 years,618865
+E92000001,England,Aged 15 years,138888
+E92000001,England,Aged 16 to 17 years,380002
+E92000001,England,Aged 18 to 19 years,634854
+E92000001,England,Aged 20 to 24 years,1851536
+E92000001,England,Aged 25 to 29 years,1682346
+E92000001,England,Aged 30 to 44 years,2068103
+E92000001,England,Aged 45 to 59 years,478990
+E92000001,England,Aged 60 to 64 years,55865
+E92000001,England,Aged 65 to 74 years,57765
+E92000001,England,Aged 75 to 84 years,16346
+E92000001,England,Aged 85 to 89 years,2212
+E92000001,England,Aged 90 years and over,746
+W92000004,Wales,Aged 0 to 4 years,34270
+W92000004,Wales,Aged 5 to 7 years,10702
+W92000004,Wales,Aged 8 to 9 years,6191
+W92000004,Wales,Aged 10 to 14 years,13434
+W92000004,Wales,Aged 15 years,2861
+W92000004,Wales,Aged 16 to 17 years,7968
+W92000004,Wales,Aged 18 to 19 years,13742
+W92000004,Wales,Aged 20 to 24 years,37167
+W92000004,Wales,Aged 25 to 29 years,32816
+W92000004,Wales,Aged 30 to 44 years,43479
+W92000004,Wales,Aged 45 to 59 years,10085
+W92000004,Wales,Aged 60 to 64 years,1142
+W92000004,Wales,Aged 65 to 74 years,1164
+W92000004,Wales,Aged 75 to 84 years,339
+W92000004,Wales,Aged 85 to 89 years,43
+W92000004,Wales,Aged 90 years and over,27

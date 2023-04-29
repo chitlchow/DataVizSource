@@ -1,0 +1,161 @@
+code,label,cx,cy,description,value
+W92000004,Wales,281678,267845,Arrived in the UK: Aged 0 to 4 years,34270
+W92000004,Wales,281678,267845,Arrived in the UK: Aged 5 to 7 years,10702
+W92000004,Wales,281678,267845,Arrived in the UK: Aged 8 to 9 years,6191
+W92000004,Wales,281678,267845,Arrived in the UK: Aged 10 to 14 years,13434
+W92000004,Wales,281678,267845,Arrived in the UK: Aged 15 years,2861
+W92000004,Wales,281678,267845,Arrived in the UK: Aged 16 to 17 years,7968
+W92000004,Wales,281678,267845,Arrived in the UK: Aged 18 to 19 years,13742
+W92000004,Wales,281678,267845,Arrived in the UK: Aged 20 to 24 years,37167
+W92000004,Wales,281678,267845,Arrived in the UK: Aged 25 to 29 years,32816
+W92000004,Wales,281678,267845,Arrived in the UK: Aged 30 to 44 years,43479
+W92000004,Wales,281678,267845,Arrived in the UK: Aged 45 to 59 years,10085
+W92000004,Wales,281678,267845,Arrived in the UK: Aged 60 to 64 years,1142
+W92000004,Wales,281678,267845,Arrived in the UK: Aged 65 to 74 years,1164
+W92000004,Wales,281678,267845,Arrived in the UK: Aged 75 to 84 years,339
+W92000004,Wales,281678,267845,Arrived in the UK: Aged 85 to 89 years,43
+W92000004,Wales,281678,267845,Arrived in the UK: Aged 90 years and over,27
+E12000001,North East,406372,568880,Arrived in the UK: Aged 0 to 4 years,29373
+E12000001,North East,406372,568880,Arrived in the UK: Aged 5 to 7 years,8983
+E12000001,North East,406372,568880,Arrived in the UK: Aged 8 to 9 years,5087
+E12000001,North East,406372,568880,Arrived in the UK: Aged 10 to 14 years,10907
+E12000001,North East,406372,568880,Arrived in the UK: Aged 15 years,2163
+E12000001,North East,406372,568880,Arrived in the UK: Aged 16 to 17 years,6285
+E12000001,North East,406372,568880,Arrived in the UK: Aged 18 to 19 years,11431
+E12000001,North East,406372,568880,Arrived in the UK: Aged 20 to 24 years,31000
+E12000001,North East,406372,568880,Arrived in the UK: Aged 25 to 29 years,28478
+E12000001,North East,406372,568880,Arrived in the UK: Aged 30 to 44 years,36511
+E12000001,North East,406372,568880,Arrived in the UK: Aged 45 to 59 years,7118
+E12000001,North East,406372,568880,Arrived in the UK: Aged 60 to 64 years,797
+E12000001,North East,406372,568880,Arrived in the UK: Aged 65 to 74 years,751
+E12000001,North East,406372,568880,Arrived in the UK: Aged 75 to 84 years,216
+E12000001,North East,406372,568880,Arrived in the UK: Aged 85 to 89 years,30
+E12000001,North East,406372,568880,Arrived in the UK: Aged 90 years and over,14
+E12000002,North West,352910,461468,Arrived in the UK: Aged 0 to 4 years,115914
+E12000002,North West,352910,461468,Arrived in the UK: Aged 5 to 7 years,44135
+E12000002,North West,352910,461468,Arrived in the UK: Aged 8 to 9 years,26806
+E12000002,North West,352910,461468,Arrived in the UK: Aged 10 to 14 years,59183
+E12000002,North West,352910,461468,Arrived in the UK: Aged 15 years,12958
+E12000002,North West,352910,461468,Arrived in the UK: Aged 16 to 17 years,34060
+E12000002,North West,352910,461468,Arrived in the UK: Aged 18 to 19 years,56001
+E12000002,North West,352910,461468,Arrived in the UK: Aged 20 to 24 years,151929
+E12000002,North West,352910,461468,Arrived in the UK: Aged 25 to 29 years,135066
+E12000002,North West,352910,461468,Arrived in the UK: Aged 30 to 44 years,177960
+E12000002,North West,352910,461468,Arrived in the UK: Aged 45 to 59 years,41092
+E12000002,North West,352910,461468,Arrived in the UK: Aged 60 to 64 years,4461
+E12000002,North West,352910,461468,Arrived in the UK: Aged 65 to 74 years,4378
+E12000002,North West,352910,461468,Arrived in the UK: Aged 75 to 84 years,1241
+E12000002,North West,352910,461468,Arrived in the UK: Aged 85 to 89 years,153
+E12000002,North West,352910,461468,Arrived in the UK: Aged 90 years and over,66
+E12000003,Yorkshire and The Humber,447779,454503,Arrived in the UK: Aged 0 to 4 years,85443
+E12000003,Yorkshire and The Humber,447779,454503,Arrived in the UK: Aged 5 to 7 years,30461
+E12000003,Yorkshire and The Humber,447779,454503,Arrived in the UK: Aged 8 to 9 years,18423
+E12000003,Yorkshire and The Humber,447779,454503,Arrived in the UK: Aged 10 to 14 years,41376
+E12000003,Yorkshire and The Humber,447779,454503,Arrived in the UK: Aged 15 years,9007
+E12000003,Yorkshire and The Humber,447779,454503,Arrived in the UK: Aged 16 to 17 years,24877
+E12000003,Yorkshire and The Humber,447779,454503,Arrived in the UK: Aged 18 to 19 years,43771
+E12000003,Yorkshire and The Humber,447779,454503,Arrived in the UK: Aged 20 to 24 years,118347
+E12000003,Yorkshire and The Humber,447779,454503,Arrived in the UK: Aged 25 to 29 years,98156
+E12000003,Yorkshire and The Humber,447779,454503,Arrived in the UK: Aged 30 to 44 years,118779
+E12000003,Yorkshire and The Humber,447779,454503,Arrived in the UK: Aged 45 to 59 years,27003
+E12000003,Yorkshire and The Humber,447779,454503,Arrived in the UK: Aged 60 to 64 years,2834
+E12000003,Yorkshire and The Humber,447779,454503,Arrived in the UK: Aged 65 to 74 years,2814
+E12000003,Yorkshire and The Humber,447779,454503,Arrived in the UK: Aged 75 to 84 years,801
+E12000003,Yorkshire and The Humber,447779,454503,Arrived in the UK: Aged 85 to 89 years,118
+E12000003,Yorkshire and The Humber,447779,454503,Arrived in the UK: Aged 90 years and over,51
+E12000004,East Midlands,479827,337141,Arrived in the UK: Aged 0 to 4 years,84604
+E12000004,East Midlands,479827,337141,Arrived in the UK: Aged 5 to 7 years,32322
+E12000004,East Midlands,479827,337141,Arrived in the UK: Aged 8 to 9 years,20179
+E12000004,East Midlands,479827,337141,Arrived in the UK: Aged 10 to 14 years,46673
+E12000004,East Midlands,479827,337141,Arrived in the UK: Aged 15 years,9711
+E12000004,East Midlands,479827,337141,Arrived in the UK: Aged 16 to 17 years,25782
+E12000004,East Midlands,479827,337141,Arrived in the UK: Aged 18 to 19 years,44523
+E12000004,East Midlands,479827,337141,Arrived in the UK: Aged 20 to 24 years,122746
+E12000004,East Midlands,479827,337141,Arrived in the UK: Aged 25 to 29 years,101995
+E12000004,East Midlands,479827,337141,Arrived in the UK: Aged 30 to 44 years,136260
+E12000004,East Midlands,479827,337141,Arrived in the UK: Aged 45 to 59 years,35949
+E12000004,East Midlands,479827,337141,Arrived in the UK: Aged 60 to 64 years,3789
+E12000004,East Midlands,479827,337141,Arrived in the UK: Aged 65 to 74 years,3667
+E12000004,East Midlands,479827,337141,Arrived in the UK: Aged 75 to 84 years,997
+E12000004,East Midlands,479827,337141,Arrived in the UK: Aged 85 to 89 years,144
+E12000004,East Midlands,479827,337141,Arrived in the UK: Aged 90 years and over,37
+E12000005,West Midlands,381410,286686,Arrived in the UK: Aged 5 to 7 years,46256
+E12000005,West Midlands,381410,286686,Arrived in the UK: Aged 8 to 9 years,28986
+E12000005,West Midlands,381410,286686,Arrived in the UK: Aged 10 to 14 years,68107
+E12000005,West Midlands,381410,286686,Arrived in the UK: Aged 15 years,14711
+E12000005,West Midlands,381410,286686,Arrived in the UK: Aged 16 to 17 years,38119
+E12000005,West Midlands,381410,286686,Arrived in the UK: Aged 18 to 19 years,63083
+E12000005,West Midlands,381410,286686,Arrived in the UK: Aged 20 to 24 years,166418
+E12000005,West Midlands,381410,286686,Arrived in the UK: Aged 25 to 29 years,140469
+E12000005,West Midlands,381410,286686,Arrived in the UK: Aged 30 to 44 years,174853
+E12000005,West Midlands,381410,286686,Arrived in the UK: Aged 45 to 59 years,40195
+E12000005,West Midlands,381410,286686,Arrived in the UK: Aged 60 to 64 years,4595
+E12000005,West Midlands,381410,286686,Arrived in the UK: Aged 65 to 74 years,5146
+E12000005,West Midlands,381410,286686,Arrived in the UK: Aged 75 to 84 years,1486
+E12000005,West Midlands,381410,286686,Arrived in the UK: Aged 85 to 89 years,227
+E12000005,West Midlands,381410,286686,Arrived in the UK: Aged 90 years and over,91
+E12000006,East of England,573143,264244,Arrived in the UK: Aged 0 to 4 years,116122
+E12000006,East of England,573143,264244,Arrived in the UK: Aged 5 to 7 years,41596
+E12000006,East of England,573143,264244,Arrived in the UK: Aged 8 to 9 years,24691
+E12000006,East of England,573143,264244,Arrived in the UK: Aged 10 to 14 years,55653
+E12000006,East of England,573143,264244,Arrived in the UK: Aged 15 years,12269
+E12000006,East of England,573143,264244,Arrived in the UK: Aged 16 to 17 years,34411
+E12000006,East of England,573143,264244,Arrived in the UK: Aged 18 to 19 years,61278
+E12000006,East of England,573143,264244,Arrived in the UK: Aged 20 to 24 years,182896
+E12000006,East of England,573143,264244,Arrived in the UK: Aged 25 to 29 years,162860
+E12000006,East of England,573143,264244,Arrived in the UK: Aged 30 to 44 years,196850
+E12000006,East of England,573143,264244,Arrived in the UK: Aged 45 to 59 years,44396
+E12000006,East of England,573143,264244,Arrived in the UK: Aged 60 to 64 years,4865
+E12000006,East of England,573143,264244,Arrived in the UK: Aged 65 to 74 years,4770
+E12000006,East of England,573143,264244,Arrived in the UK: Aged 75 to 84 years,1449
+E12000006,East of England,573143,264244,Arrived in the UK: Aged 85 to 89 years,199
+E12000006,East of England,573143,264244,Arrived in the UK: Aged 90 years and over,65
+E12000007,London,530856,180105,Arrived in the UK: Aged 0 to 4 years,292404
+E12000007,London,530856,180105,Arrived in the UK: Aged 5 to 7 years,133658
+E12000007,London,530856,180105,Arrived in the UK: Aged 8 to 9 years,87182
+E12000007,London,530856,180105,Arrived in the UK: Aged 10 to 14 years,215233
+E12000007,London,530856,180105,Arrived in the UK: Aged 15 years,52306
+E12000007,London,530856,180105,Arrived in the UK: Aged 16 to 17 years,145004
+E12000007,London,530856,180105,Arrived in the UK: Aged 18 to 19 years,231603
+E12000007,London,530856,180105,Arrived in the UK: Aged 20 to 24 years,713819
+E12000007,London,530856,180105,Arrived in the UK: Aged 25 to 29 years,677608
+E12000007,London,530856,180105,Arrived in the UK: Aged 30 to 44 years,797472
+E12000007,London,530856,180105,Arrived in the UK: Aged 45 to 59 years,178316
+E12000007,London,530856,180105,Arrived in the UK: Aged 60 to 64 years,21306
+E12000007,London,530856,180105,Arrived in the UK: Aged 65 to 74 years,22327
+E12000007,London,530856,180105,Arrived in the UK: Aged 75 to 84 years,6429
+E12000007,London,530856,180105,Arrived in the UK: Aged 85 to 89 years,828
+E12000007,London,530856,180105,Arrived in the UK: Aged 90 years and over,247
+E12000008,South East,502873,156210,Arrived in the UK: Aged 0 to 4 years,190324
+E12000008,South East,502873,156210,Arrived in the UK: Aged 5 to 7 years,63902
+E12000008,South East,502873,156210,Arrived in the UK: Aged 8 to 9 years,39011
+E12000008,South East,502873,156210,Arrived in the UK: Aged 10 to 14 years,86779
+E12000008,South East,502873,156210,Arrived in the UK: Aged 15 years,18720
+E12000008,South East,502873,156210,Arrived in the UK: Aged 16 to 17 years,51074
+E12000008,South East,502873,156210,Arrived in the UK: Aged 18 to 19 years,87880
+E12000008,South East,502873,156210,Arrived in the UK: Aged 20 to 24 years,266502
+E12000008,South East,502873,156210,Arrived in the UK: Aged 25 to 29 years,248246
+E12000008,South East,502873,156210,Arrived in the UK: Aged 30 to 44 years,311608
+E12000008,South East,502873,156210,Arrived in the UK: Aged 45 to 59 years,74681
+E12000008,South East,502873,156210,Arrived in the UK: Aged 60 to 64 years,9624
+E12000008,South East,502873,156210,Arrived in the UK: Aged 65 to 74 years,10461
+E12000008,South East,502873,156210,Arrived in the UK: Aged 75 to 84 years,2801
+E12000008,South East,502873,156210,Arrived in the UK: Aged 85 to 89 years,393
+E12000008,South East,502873,156210,Arrived in the UK: Aged 90 years and over,112
+E12000009,South West,319859,122650,Arrived in the UK: Aged 5 to 7 years,27915
+E12000009,South West,319859,122650,Arrived in the UK: Aged 8 to 9 years,16333
+E12000009,South West,319859,122650,Arrived in the UK: Aged 10 to 14 years,34956
+E12000009,South West,319859,122650,Arrived in the UK: Aged 15 years,7043
+E12000009,South West,319859,122650,Arrived in the UK: Aged 16 to 17 years,20390
+E12000009,South West,319859,122650,Arrived in the UK: Aged 18 to 19 years,35285
+E12000009,South West,319859,122650,Arrived in the UK: Aged 20 to 24 years,97879
+E12000009,South West,319859,122650,Arrived in the UK: Aged 25 to 29 years,89467
+E12000009,South West,319859,122650,Arrived in the UK: Aged 30 to 44 years,117810
+E12000009,South West,319859,122650,Arrived in the UK: Aged 45 to 59 years,30240
+E12000009,South West,319859,122650,Arrived in the UK: Aged 60 to 64 years,3594
+E12000009,South West,319859,122650,Arrived in the UK: Aged 65 to 74 years,3451
+E12000009,South West,319859,122650,Arrived in the UK: Aged 75 to 84 years,926
+E12000009,South West,319859,122650,Arrived in the UK: Aged 85 to 89 years,124
+E12000009,South West,319859,122650,Arrived in the UK: Aged 90 years and over,62
+E12000005,West Midlands,381410,286686,Arrived in the UK: Aged 0 to 4 years,109696
+E12000009,South West,319859,122650,Arrived in the UK: Aged 0 to 4 years,96219
